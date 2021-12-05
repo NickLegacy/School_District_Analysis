@@ -1,8 +1,8 @@
 # School District Analysis
 ## Overview
+The purpose of this analysis is to examine the results of math and reading among all students from district and charter schools. The removal of the 9th grade scores from Thomas High School had an impact on all 9th grade results. Scores in math and reading changed as a result. The overall success of Charter schools and Thomas High School, also changed as a result. 
+
 ## Results
-
-
 
 ### **District Summary Results**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/district.PNG)
@@ -18,7 +18,6 @@ Thomas High School moves to 2nd in highest overall percent of passing students. 
 Thomas High School had some of the highest scores in reading and math for 9th graders. Removing these scores eliminates Thomas High School from being near the top of the rankings.
 * Holden High School now has the highest math scores among 9th grade students. 
 * Shelton High School has the highest reading scores for 9th graders. 
-
 
 ### **Scores by School Spending**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/schools%20by%20spending%20size.PNG)
@@ -43,7 +42,5 @@ Thomas High School had some of the highest scores in reading and math for 9th gr
 * 97% of students from Charter schools passed reading 
 * The overall passing percentage of students largely favors Charter schools over District schools. 
 
-
-
 ## Summary
-Thomas High School scored well among 9th graders. Removing these scores caused Thomas High School to be removed from the top 5 among 9th graders. 
+Thomas High School scored well among 9th graders. Removing these scores caused Thomas High School to be removed from the top 5 among 9th graders. Overall scores among all charter schools also dropped in both math and reading. The overall percentage in students that passed, also hard a large drop. 
