@@ -4,7 +4,7 @@
 
 
 ### **School Summary Results**
-![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/school%20summary.PNG)
+
 
 
 
