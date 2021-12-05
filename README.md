@@ -3,6 +3,12 @@
 ## Results
 
 
+### **Math and reading scores by grade**
+![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/math.PNG)
+![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/reading.PNG)
+
+
+
 ### **Scores by School Spending**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/schools%20by%20spending%20size.PNG)
 * Average math scores increased as the per student budget decreased. 
