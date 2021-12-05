@@ -6,7 +6,9 @@
 ### **Math and reading scores by grade**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/math.PNG)
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/reading.PNG)
-
+Thomas High School had some of the highest scores in reading and math for 9th graders. Removing these scores eliminates Thomas High School from being near the top of the rankings.
+* Holden High School now has the highest math scores among 9th grade students. 
+* Shelton High School has the highest reading scores for 9th graders. 
 
 
 ### **Scores by School Spending**
