@@ -3,11 +3,14 @@
 ## Results
 
 
+
+### **District Summary Results**
+![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/district.PNG)
+
+
 ### **School Summary Results**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/summary%20school.PNG)
-
-
-
+Thomas High School moves to 2nd in highest overall percent of passing students. They also place in the top 3 in reading, having over 97% of students passing. 
 
 ### **Math and reading scores by grade**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/math.PNG)
