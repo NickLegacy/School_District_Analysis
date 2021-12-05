@@ -46,3 +46,4 @@ Thomas High School had some of the highest scores in reading and math for 9th gr
 
 
 ## Summary
+Thomas High School scored well among 9th graders. Removing these scores caused Thomas High School to be removed from the top 5 among 9th graders. 
