@@ -2,7 +2,7 @@
 ## Overview
 ## Results
 
-### Scores by School Type
+### ***Scores by School Type***
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/scores%20by%20school%20type.PNG)
 * Average math and reading scores were higher for Charter schools over District. 
 * Percentage of students passing math was much higher for Charter schools over District. 
