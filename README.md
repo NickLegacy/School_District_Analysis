@@ -5,7 +5,11 @@
 
 ### **Scores by School Spending**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/schools%20by%20spending%20size.PNG)
-
+* Average math scores increased as the per student budget decreased. 
+* Average reading scores were consistent regardless of per student budget. 
+* Percent of students passing math was highest in areas that had lower per student budgets. 
+* Percent of students passing reading was extremely high for lower per student budgets. 
+* High per student budgets had a much lower percentage of overall passing students.  
 
 ### **Scores by School Size**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/scores%20by%20school%20size.PNG)
