@@ -6,7 +6,7 @@
 
 ### **District Summary Results**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/district.PNG)
-
+Overall, only 64.9% of students pass. The reading scores and the percentage of students that passed reading was higher than math. 
 
 ### **School Summary Results**
 ![This is an image](https://github.com/NickLegacy/School_District_Analysis/blob/main/summary%20school.PNG)
